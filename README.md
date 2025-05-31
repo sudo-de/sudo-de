@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=sudo-de&style=flat-square)
 
 ## 🧠 Skills Overview (Tech Stack & Learning Journey)
-
 <table border="1px solid black" style="margin: 5px">
   <tr>
     <th align="center">
@@ -35,10 +34,10 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td align="center" valign="middle">
-      <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,ts,react,nodejs,express,flask,django,git,github,docker,postgres,mysql,mongodb,aws,gcp,azure,figma,fastapi,jenkins,kali,kotlin,terraform,&perline=7" />
+      <img src="https://skillicons.dev/icons?i=html,css,sass,vue,bootstrap,tailwind,ts,react,npm,nodejs,express,flask,django,fastapi,kotlin,postgres,mysql,mongodb,sqlite,firebase,aws,gcp,azure,docker,kubernetes,jenkins,terraform,cloudflare,git,github,gitlab,dart,flutter,kali,bash,webpack&perline=7" />
     </td>
     <td align="center" valign="middle">
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,js,rust&perline=6" /><br><br>
+      <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,rust&perline=6" /><br><br>
     </td>
     <td align="center" valign="middle">
       <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch&perline=6" /><br><br>
@@ -48,15 +47,14 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
       <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
     </td>
   </tr>
 </table>
 
-<p align="center">
-
 ## 🖥️ IDEs & GUIs I Like
-
-<img src="https://skillicons.dev/icons?i=vscode,bash,androidstudio,swift,matlab" alt="IDEs" style="margin-right:10px" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,powershell,androidstudio,swift,matlab,figma" alt="IDEs" style="margin-right:10px" />
 <br>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
@@ -80,7 +78,7 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/
 
 <h3>My GitHub contributions summary</h3>
 
-[[![GitHub Streak](https://streak-stats.demolab.com/?user=sudo-de&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sudo-de&theme=dark)](https://git.io/streak-stats)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sudo-de&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
