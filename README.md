@@ -16,45 +16,56 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=sudo-de&style=flat-square)
 
-## Skills
+## 🧠 Skills Overview (Tech Stack & Learning Journey)
 
 <table border="1px solid black" style="margin: 5px">
-<tr>
-<td>
-<b style="font-size:30px">I have</b>
-</td>
-<td>
-<b style="font-size:30px">I’m learning</b>
-</td>
-<td>
-<b style="font-size:30px">In the memory banks</b>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://skillicons.dev/icons?i=r,bash,git,sass,html,css,bootstrap,github,githubactions,md&perline=3" />
-[![GitHub
-Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
-</td>
-<td>
-<img src="https://skillicons.dev/icons?i=js,php,regex&perline=3" /> <br>
-<img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /><br>
-</td>
-<td>
-<img src="https://skillicons.dev/icons?i=matlab" />
-</td>
-</tr>
+  <tr>
+    <th align="center">
+      <img src="https://img.shields.io/badge/🚀 Mastered-0ABF53?style=for-the-badge&logo=verified&logoColor=white" /><br>
+      <sub><sup>Skills I use daily</sup></sub>
+    </th>
+    <th align="center">
+      <img src="https://img.shields.io/badge/📈 Improving-0078D7?style=for-the-badge&logo=trendingup&logoColor=white" /><br>
+      <sub><sup>Skills I’m actively growing</sup></sub>
+    </th>
+    <th align="center">
+      <img src="https://img.shields.io/badge/🤖 AI & ML-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white" /><br>
+      <sub><sup>Artificial Intelligence & Machine Learning</sup></sub>
+    </th>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,ts,react,nodejs,express,flask,django,git,github,docker,postgres,mysql,mongodb,aws,gcp,azure,figma,fastapi,jenkins,kali,kotlin,terraform,&perline=7" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,js,rust&perline=6" /><br><br>
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch&perline=6" /><br><br>
+      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+    </td>
+  </tr>
 </table>
 
-## IDE/GUI’s I like
-
 <p align="center">
-<img src="https://img.shields.io/badge/-positron-61DAFB?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
-<img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" />
+
+## 🖥️ IDEs & GUIs I Like
+
+<img src="https://skillicons.dev/icons?i=vscode,bash,androidstudio,swift,matlab" alt="IDEs" style="margin-right:10px" />
+<br>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/AutoCAD-000000?style=for-the-badge&logo=autodesk&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
 
 <!-- <h3>My most recent articles</h3>
@@ -65,7 +76,6 @@ Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&
 If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺
 
 <a href="https://www.buymeacoffee.com/cycosad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
 -->
 
 <h3>My GitHub contributions summary</h3>
@@ -74,31 +84,19 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sudo-de&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
-### 🔭 I’m working on  
+<!--### 🔭 I’m working on  
 - Projects for freelance clients.
 - Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
-
-### 🌱 I’m learning
-<div display="flex">   
-  <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger"/>   
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum"/>   
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/> 
-</div> 
+-->
 
 ### 🤔 I’m looking for help with  
 - Integrating AI models to web applications  
 
 ### 📫 How to reach me  
 <div display="flex">   
-  <a href="https://www.linkedin.com/in/codewithbernard/">     
+  <a href="https://www.linkedin.com/in/sudeep-de/">     
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>   
-  </a>   
-  <a href="https://twitter.com/CodeWithBernard">     
-    <img src="https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>   
-  </a>   
-  <a href="https://medium.com/@bernardbad">     
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>   
-  </a> 
+  </a>
 </div>  
 
 ### ⚡ Fun fact  I'm definitely not a cat person.
