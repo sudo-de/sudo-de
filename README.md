@@ -30,9 +30,8 @@ I'm Sudip De, a postgraduate student at IIT Delhi.
 **sudo-de/sudo-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<p align="center">
-    <strong>🧠 Skills Overview (Tech Stack & Learning Journey)</strong>
-</p>
+
+## 🧠 Skills Overview (Tech Stack & Learning Journey)
 
 <table border="1" style="margin: 5px auto; border-collapse: collapse;">
     <tr>
