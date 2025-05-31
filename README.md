@@ -1,5 +1,14 @@
-## Hi there, I'm Sudip!
+<p align="center"> 
 
+## Hi there 👋
+</p>
+
+I'm Sudip De, a post graduate student at IIT Delhi.
+<div display="flex">   
+  <a href="https://www.linkedin.com/in/sudeep-de/">     
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>   
+  </a>
+</div>  
 <!--
 **sudo-de/sudo-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -48,6 +57,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
       <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+
     </td>
   </tr>
 </table>
@@ -90,11 +100,3 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/
 ### 🤔 I’m looking for help with  
 - Integrating AI models to web applications  
 
-### 📫 How to reach me  
-<div display="flex">   
-  <a href="https://www.linkedin.com/in/sudeep-de/">     
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>   
-  </a>
-</div>  
-
-### ⚡ Fun fact  I'm definitely not a cat person.
