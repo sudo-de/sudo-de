@@ -50,10 +50,10 @@ I'm Sudip De, a postgraduate student at IIT Delhi.
     </tr>
     <tr>
         <td align="center" valign="middle">
-            <img src="https://skillicons.dev/icons?i=html,css,sass,vue,bootstrap,tailwind,ts,react,npm,nodejs,express,flask,django,fastapi,kotlin,postgres,mysql,mongodb,sqlite,firebase,aws,gcp,azure,docker,kubernetes,jenkins,terraform,cloudflare,git,github,gitlab,dart,flutter,kali,bash,webpack&perline=7" />
+            <img src="https://skillicons.dev/icons?i=html,css,sass,js,vue,bootstrap,tailwind,ts,react,npm,nodejs,express,flask,django,fastapi,kotlin,postgres,mysql,mongodb,sqlite,firebase,aws,gcp,azure,docker,kubernetes,jenkins,terraform,cloudflare,git,github,gitlab,dart,flutter,kali,bash,webpack&perline=7" />
         </td>
         <td align="center" valign="middle">
-            <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,rust&perline=6" /><br><br>
+            <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,matlab&perline=6" /><br><br>
         </td>
         <td align="center" valign="middle">
             <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
