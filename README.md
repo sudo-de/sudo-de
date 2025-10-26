@@ -1,64 +1,62 @@
-##
+## Hey There! 👋
 <p align="center">
-    <strong>Hi there 👋</strong>
+    <strong></strong>
 </p>
 
 I'm Sudip De, a postgraduate student at IIT Delhi.
 <br><br>
 
-<div align="center">
-    <a href="https://www.kaggle.com/sudipde25" target="_blank">
-        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="30"/>
-    </a>
-    <a href="https://www.linkedin.com/in/sudeep-de" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
-    </a>
-    <a href="https://www.facebook.com/sudipde23" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30"/>
-    </a>
-    <a href="https://www.instagram.com/mr.sudipde" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
-    </a>
-    <a href="https://x.com/_sudip_de" target="_blank">
-        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="30"/>
-    </a>
-</div>
+<details>
+  <summary>Social Media 🔎</summary>
+    <div align="center">
+        <a href="" target="_blank">
+            <img src="https://skillicons.dev/icons?i=linkedin" />
+        </a>
+        <a href="https://www.instagram.com/mr.sudipde">
+            <img src="https://skillicons.dev/icons?i=instagram" />
+        </a>
+        <a href="https://x.com/_sudip_de" target="_blank">
+            <img src="https://skillicons.dev/icons?i=twitter" />
+        </a>
+    </div>
+</details>
 
 ##
-
 <!--
 **sudo-de/sudo-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
-## 🧠 Skills Overview (Tech Stack & Learning Journey)
+## 🧠 Skills Overview & Learning Journey
 
 <table border="1" style="margin: 5px auto; border-collapse: collapse;">
     <tr>
-        <th align="center">
-            <img src="https://img.shields.io/badge/🚀 Mastered-0ABF53?style=for-the-badge&logo=verified&logoColor=white" /><br>
+        <td align="center">
+            <img src="https://img.shields.io/badge/🚀 Proficient-0ABF53?style=for-the-badge&logo=verified&logoColor=white" /><br>
             <sub><sup>Skills I use daily</sup></sub>
-        </th>
-        <th align="center">
-            <img src="https://img.shields.io/badge/📈 Improving-0078D7?style=for-the-badge&logo=trendingup&logoColor=white" /><br>
-            <sub><sup>Skills I’m actively growing</sup></sub>
-        </th>
-        <th align="center">
-            <img src="https://img.shields.io/badge/🤖 Data science & ML-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white" /><br>
-            <sub><sup>Data science & Machine Learning</sup></sub>
-        </th>
+        </td>        
+        <!-- 🚀 Mastered -->
+        <td align="center" valign="middle">
+            <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,nextjs,vite,vue,bootstrap,react,npm,nodejs,express,flask,django,fastapi,kotlin,mysql,mongodb,sqlite,firebase,aws,gcp,azure,docker,kubernetes,jenkins,terraform,cloudflare,git,gitlab,flutter,dart,kali,bash,cmake,nginx,selenium,postman,githubactions,cypress,md&perline=14" />
+        </td>
     </tr>
     <tr>
-        <td align="center" valign="middle">
-            <img src="https://skillicons.dev/icons?i=html,css,sass,js,vue,bootstrap,tailwind,ts,react,npm,nodejs,express,flask,django,fastapi,kotlin,postgres,mysql,mongodb,sqlite,firebase,aws,gcp,azure,docker,kubernetes,jenkins,terraform,cloudflare,git,github,gitlab,dart,flutter,kali,bash,webpack&perline=7" />
+        <td align="center">
+            <img src="https://img.shields.io/badge/📈 Improving-0078D7?style=for-the-badge&logo=trendingup&logoColor=white" /><br>
+            <sub><sup>Skills I’m actively growing</sup></sub>
         </td>
+        <!-- 📈 Improving -->
         <td align="center" valign="middle">
-            <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,matlab&perline=6" /><br><br>
+            <img src="https://skillicons.dev/icons?i=c,cpp,py,nestjs,tailwind,postgres&perline=14" /><br><br>
         </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://img.shields.io/badge/🤖 Data science & ML-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white" /><br>
+            <sub><sup>Data science & Machine Learning</sup></sub>
+        </td>
+        <!-- 🤖 Data science & ML -->
         <td align="center" valign="middle">
-            <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
             <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-            <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
             <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" />
             <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
             <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -66,26 +64,38 @@ I'm Sudip De, a postgraduate student at IIT Delhi.
             <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
             <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
             <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+            <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
         </td>
     </tr>
 </table>
 
+<!-- 
+Web & UI Testing: Playwright
+API Testing: Pytest + Requests
+Mobile App Testing: Appium
+Devops Testing: K6
+-->
+
 ## 🖥️ IDEs & GUIs I Like
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=vscode,powershell,androidstudio,swift,matlab,figma" alt="IDEs" style="margin-right:10px" />
+    <img src="https://skillicons.dev/icons?i=vscode,powershell,androidstudio,swift,matlab,figma,windows,apple,linux" alt="IDEs" style="margin-right:10px" />
     <br>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
     <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
-    <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/AutoCAD-000000?style=for-the-badge&logo=autodesk&logoColor=white" />
     <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-    <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=latex" />
 </p>
 
 ## 🤔 I’m looking for help with  
-- Integrating AI models into web applications  
+- Integrating **AI/ML models** into web and mobile applications
+- Building **Deep learning projects** and **model** for real-world tasks
+- Building **Data science workflows** and **analytics pipelines**
+- Building and optimizing **full-stack web applications** with clean, maintainable code
+- Developing **cross-platform mobile applications**
+- Implementing **DevOps pipelines**, **CI/CD** and **cloud infrastructure**
+- **Automating tests** and improving **software quality**
 
 ## 
 <!--
@@ -98,3 +108,10 @@ I'm Sudip De, a postgraduate student at IIT Delhi.
 
 ![](https://komarev.com/ghpvc/?username=sudo-de&style=flat-square)
 </p>
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=sudo-de&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-de&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
