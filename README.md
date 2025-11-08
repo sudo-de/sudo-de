@@ -36,7 +36,7 @@ I'm Sudip De, a postgraduate student at IIT Delhi.
         </td>        
         <!-- 🚀 Mastered -->
         <td align="center" valign="middle">
-            <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,nextjs,vite,vue,bootstrap,react,npm,nodejs,express,flask,django,fastapi,kotlin,mysql,mongodb,sqlite,firebase,aws,gcp,azure,docker,kubernetes,jenkins,terraform,cloudflare,git,gitlab,flutter,dart,kali,bash,cmake,nginx,selenium,postman,githubactions,cypress,md&perline=14" />
+            <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,nextjs,vite,bootstrap,react,npm,nodejs,express,flask,django,fastapi,mysql,mongodb,sqlite,firebase,aws,gcp,azure,docker,kubernetes,jenkins,terraform,cloudflare,git,gitlab,kotlin,flutter,dart,bash,cmake,nginx,selenium,postman,githubactions,cypress,md&perline=14" />
         </td>
     </tr>
     <tr>
@@ -46,7 +46,7 @@ I'm Sudip De, a postgraduate student at IIT Delhi.
         </td>
         <!-- 📈 Improving -->
         <td align="center" valign="middle">
-            <img src="https://skillicons.dev/icons?i=c,cpp,py,nestjs,tailwind,postgres&perline=14" /><br><br>
+            <img src="https://skillicons.dev/icons?i=c,cpp,rust,py,nestjs,tailwind,go,postgres&perline=14" /><br><br>
         </td>
     </tr>
     <tr>
@@ -56,7 +56,6 @@ I'm Sudip De, a postgraduate student at IIT Delhi.
         </td>
         <!-- 🤖 Data science & ML -->
         <td align="center" valign="middle">
-            <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
             <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" />
             <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
             <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -64,7 +63,7 @@ I'm Sudip De, a postgraduate student at IIT Delhi.
             <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
             <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
             <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
-            <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+            <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
         </td>
     </tr>
 </table>
@@ -78,7 +77,7 @@ Devops Testing: K6
 
 ## 🖥️ IDEs & GUIs I Like
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=vscode,powershell,androidstudio,swift,matlab,figma,windows,apple,linux" alt="IDEs" style="margin-right:10px" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,bash,powershell,androidstudio,swift,matlab,r,figma,windows,apple,linux,kali" alt="IDEs" style="margin-right:10px" />
     <br>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
