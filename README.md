@@ -36,7 +36,7 @@ I'm Sudip De, a postgraduate student at IIT Delhi.
         </td>        
         <!-- 🚀 Mastered -->
         <td align="center" valign="middle">
-            <img src="https://skillicons.dev/icons?i=html,css,vite,tailwind,bootstrap,redux,react,npm,nodejs,express,nestjs,spring,tauri,fastapi,mysql,postgres,mongodb,sqlite,firebase,redis,aws,gcp,azure,terraform,docker,kubernetes,jenkins,kafka,cloudflare,git,gitlab,kotlin,flutter,dart,bash,nginx,selenium,postman,githubactions,cypress,md&perline=14" />
+            <img src="https://skillicons.dev/icons?i=html,css,vite,tailwind,bootstrap,redux,react,npm,nodejs,express,nestjs,tauri,fastapi,mysql,postgres,mongodb,sqlite,firebase,redis,aws,gcp,azure,terraform,docker,kubernetes,jenkins,kafka,cloudflare,git,gitlab,kotlin,flutter,dart,bash,nginx,selenium,postman,githubactions,cypress,md&perline=14" />
         </td>
     </tr>
     <tr>
@@ -46,7 +46,7 @@ I'm Sudip De, a postgraduate student at IIT Delhi.
         </td>
         <!-- 📈 Improving -->
         <td align="center" valign="middle">
-            <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,py,go,js,ts&perline=14" /><br><br>
+            <img src="https://skillicons.dev/icons?i=c,cpp,rust,py,go,js,ts&perline=14" /><br><br>
         </td>
     </tr>
     <tr>
